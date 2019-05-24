@@ -1,0 +1,415 @@
+#
+# Results on Thursday May 02 2019 16:39:49 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36 OPR/58.0.3135.132
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,age,53
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,write_something,
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,yes
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,credit,no
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,sex,female
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Form,1,0,intro,NULL,_REACTION_TIME_,56438
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,7,0,filler,NULL,<p align=left> Шел дождь. Был вечер нехорош%2C<br>недобрый%2C неуклюжий.<br>Он извивался у калош <br>сырой гадюкой — лужей.<br>   </p>,следующий текст,NULL,18619
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,9260
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,14,0,filler,NULL,<p align=left>Когда в июнь <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp часов с восьми <br>жестокий <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp врежется жасмин <br>тяжелой влажью<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp веток%2C<br> тогда —<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp настало лето. </p>,следующий текст,NULL,14664
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,21548
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,2,0,filler,NULL,<p align=left> И раскаты горячего грома <br>задержались в прохладной листве...<br>Я с тех пор в этой роще%2C как дома%2C <br>мы в глубоком и крепком родстве<br></p>,следующий текст,NULL,19889
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,13199
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,12,0,control,NULL,<p align=left> Но в глубине разврата не погиб<br> Какой-нибудь неправедный изгиб<br> Сердец людских пред нами обнаживший. <br> Две области – сияния и тьмы – <br> Исследовать равно стремимся мы.<br></p>,следующий текст,NULL,20152
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,5104
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,17,0,exp,NULL,<p align=left> Мы тайнобрачные цветы... <br> Никто не знал%2C что мы любили%2C <br> Что аромат любовной пыли <br> Вдохнули трое – я и ты!<br>   </p>,следующий текст,NULL,14483
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,4335
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,6,0,filler,NULL,<p align=left> Я распрощался навсегда<br>Со школою постылой! <br>И в лужах квакает вода%2C <br>Как пробки от бутылок. <br>   </p>,следующий текст,NULL,9784
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,2869
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,11,0,filler,NULL,<p align=left> Не счесть на земле рассветов%2C <br> закатов%2C что будут на ней...<br> Ах%2C время! Дай мудрых советов <br> и неторопливых дней!<br></p>,следующий текст,NULL,10337
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,1554
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,8,0,control,NULL,<p align=left> Сквозь тучи солнце светит скудно%2C<br> Уходит лес в глухую даль.<br> И так на этот раз мне трудно<br> Укрыть от всех мою печаль!<br></p>,следующий текст,NULL,14921
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,2811
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,5,0,exp,NULL,<p align=left> Озаренный лучом%2C я<br> поднимаюсь в овраг.<br> Чернопыльные комья<br> замедляют мой шаг.<br></p>,следующий текст,NULL,9617
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1604
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,3,0,filler,NULL,<p align=left> На грудь положен камушек <br>граненый%2C не простой... <br> Иванушка%2C Иванушка%2C <br> что сделали с тобой?! <br></p>,следующий текст,NULL,8957
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,2976
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,15,0,filler,NULL,<p align=left> Я сознаю%2C что невозможно <br> Опять взойти на высоту%2C<br> И без надежд%2C но бестревожно%2C <br> Я в нити грез узор плету.<br></p>,следующий текст,NULL,14177
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1404
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,4,0,control,NULL,<p align=left> О%2C только бы домой дойти! Пятнадцать <br> Минут ходьбы. Пять улиц миновать.<br> По лестнице на самый верх подняться<br> И в дверь условным стуком постучать...<br></p>,следующий текст,NULL,14192
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1277
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,13,0,exp,NULL,<p align=left> В лесу корней деревья сплетены%2C <br> Им снятся те же медленные сны%2C <br> Они поют в одном согласном хоре%2C<br> Зеленый сон%2C земли живое море. <br>   </p>,следующий текст,NULL,14184
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,2000
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,10,0,filler,NULL,<p align=left> Несется плеск с речных излучин%2C  <br> В овраге ветер струны рвет%2C<br> Весь мир разбужен <br> И озвучен<br> И дирижеру смотрит в рот.  <br></p>,следующий текст,NULL,13729
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,2075
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,18,0,filler,NULL,<p align=left> Ты душою младенческой все поняла%2C  <br> Что мне высказать тайная сила дала%2C<br> И хоть жизнь без тебя суждено мне влачить%2C <br> Но мы вместе с тобой%2C нас нельзя разлучить.<br></p>,следующий текст,NULL,20952
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1184
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,16,0,control,NULL,<p align=left> Прольются<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  волны молока%2C<br> пойдут<br> &nbsp&nbsp&nbsp&nbsp листвою полыхать <br> каштанов ветви  <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  либо — <br> зареющие липы. </p>,следующий текст,NULL,11513
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1287
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,9,0,exp,NULL,<p align=left> Ах%2C время%2C помедли%2C помедли! <br> Я знаю%2C куда я влеком%2C <br> а ты вокруг петель солнце<br> кладешь и кладешь венком. <br>   </p>,следующий текст,NULL,16617
+1556815189,6f8b7d43eee5caf123f3fcaa4b98c247,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,2169
+#
+# Results on Friday May 03 2019 17:30:09 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-A730F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.2 Chrome/67.0.3396.87 Mobile Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,age,25
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,write_something,
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,yes
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,yes
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,credit,no
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,sex,female
+1556904610,3d171512fe073c555d00ce5bac316596,Form,1,0,intro,NULL,_REACTION_TIME_,19685
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1556904610,3d171512fe073c555d00ce5bac316596,Question,10,0,filler,NULL,<p align=left> Несется плеск с речных излучин%2C  <br> В овраге ветер струны рвет%2C<br> Весь мир разбужен <br> И озвучен<br> И дирижеру смотрит в рот.  <br></p>,следующий текст,NULL,113726
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,7670
+1556904610,3d171512fe073c555d00ce5bac316596,Question,15,0,filler,NULL,<p align=left> Я сознаю%2C что невозможно <br> Опять взойти на высоту%2C<br> И без надежд%2C но бестревожно%2C <br> Я в нити грез узор плету.<br></p>,следующий текст,NULL,23301
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,4032
+1556904610,3d171512fe073c555d00ce5bac316596,Question,8,0,control,NULL,<p align=left> Сквозь тучи солнце светит скудно%2C<br> Уходит лес в глухую даль.<br> И так на этот раз мне трудно<br> Укрыть от всех мою печаль!<br></p>,следующий текст,NULL,10731
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,2393
+1556904610,3d171512fe073c555d00ce5bac316596,Question,9,0,exp,NULL,<p align=left> Ах%2C время%2C помедли%2C помедли! <br> Я знаю%2C куда я влеком%2C <br> а ты вокруг петель солнце<br> кладешь и кладешь венком. <br>   </p>,следующий текст,NULL,10665
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,2049
+1556904610,3d171512fe073c555d00ce5bac316596,Question,6,0,filler,NULL,<p align=left> Я распрощался навсегда<br>Со школою постылой! <br>И в лужах квакает вода%2C <br>Как пробки от бутылок. <br>   </p>,следующий текст,NULL,6738
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1333
+1556904610,3d171512fe073c555d00ce5bac316596,Question,7,0,filler,NULL,<p align=left> Шел дождь. Был вечер нехорош%2C<br>недобрый%2C неуклюжий.<br>Он извивался у калош <br>сырой гадюкой — лужей.<br>   </p>,следующий текст,NULL,10165
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1794
+1556904610,3d171512fe073c555d00ce5bac316596,Question,12,0,control,NULL,<p align=left> Но в глубине разврата не погиб<br> Какой-нибудь неправедный изгиб<br> Сердец людских пред нами обнаживший. <br> Две области – сияния и тьмы – <br> Исследовать равно стремимся мы.<br></p>,следующий текст,NULL,31725
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,1129
+1556904610,3d171512fe073c555d00ce5bac316596,Question,5,0,exp,NULL,<p align=left> Озаренный лучом%2C я<br> поднимаюсь в овраг.<br> Чернопыльные комья<br> замедляют мой шаг.<br></p>,следующий текст,NULL,8144
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1282
+1556904610,3d171512fe073c555d00ce5bac316596,Question,2,0,filler,NULL,<p align=left> И раскаты горячего грома <br>задержались в прохладной листве...<br>Я с тех пор в этой роще%2C как дома%2C <br>мы в глубоком и крепком родстве<br></p>,следующий текст,NULL,10634
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,1673
+1556904610,3d171512fe073c555d00ce5bac316596,Question,14,0,filler,NULL,<p align=left>Когда в июнь <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp часов с восьми <br>жестокий <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp врежется жасмин <br>тяжелой влажью<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp веток%2C<br> тогда —<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp настало лето. </p>,следующий текст,NULL,26316
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,1945
+1556904610,3d171512fe073c555d00ce5bac316596,Question,4,0,control,NULL,<p align=left> О%2C только бы домой дойти! Пятнадцать <br> Минут ходьбы. Пять улиц миновать.<br> По лестнице на самый верх подняться<br> И в дверь условным стуком постучать...<br></p>,следующий текст,NULL,17377
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1304
+1556904610,3d171512fe073c555d00ce5bac316596,Question,17,0,exp,NULL,<p align=left> Мы тайнобрачные цветы... <br> Никто не знал%2C что мы любили%2C <br> Что аромат любовной пыли <br> Вдохнули трое – я и ты!<br>   </p>,следующий текст,NULL,16132
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,2026
+1556904610,3d171512fe073c555d00ce5bac316596,Question,3,0,filler,NULL,<p align=left> На грудь положен камушек <br>граненый%2C не простой... <br> Иванушка%2C Иванушка%2C <br> что сделали с тобой?! <br></p>,следующий текст,NULL,7578
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,2651
+1556904610,3d171512fe073c555d00ce5bac316596,Question,11,0,filler,NULL,<p align=left> Не счесть на земле рассветов%2C <br> закатов%2C что будут на ней...<br> Ах%2C время! Дай мудрых советов <br> и неторопливых дней!<br></p>,следующий текст,NULL,22849
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,938
+1556904610,3d171512fe073c555d00ce5bac316596,Question,16,0,control,NULL,<p align=left> Прольются<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  волны молока%2C<br> пойдут<br> &nbsp&nbsp&nbsp&nbsp листвою полыхать <br> каштанов ветви  <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  либо — <br> зареющие липы. </p>,следующий текст,NULL,14118
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,1220
+1556904610,3d171512fe073c555d00ce5bac316596,Question,13,0,exp,NULL,<p align=left> В лесу корней деревья сплетены%2C <br> Им снятся те же медленные сны%2C <br> Они поют в одном согласном хоре%2C<br> Зеленый сон%2C земли живое море. <br>   </p>,следующий текст,NULL,10748
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,995
+1556904610,3d171512fe073c555d00ce5bac316596,Question,18,0,filler,NULL,<p align=left> Ты душою младенческой все поняла%2C  <br> Что мне высказать тайная сила дала%2C<br> И хоть жизнь без тебя суждено мне влачить%2C <br> Но мы вместе с тобой%2C нас нельзя разлучить.<br></p>,следующий текст,NULL,57122
+1556904610,3d171512fe073c555d00ce5bac316596,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1041
+#
+# Results on Friday May 03 2019 17:50:41 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B150 Safari/604.1
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,age,23
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,write_something,
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,yes
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,yes
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,credit,no
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,sex,female
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Form,1,0,intro,NULL,_REACTION_TIME_,53790
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,3,0,filler,NULL,<p align=left> На грудь положен камушек <br>граненый%2C не простой... <br> Иванушка%2C Иванушка%2C <br> что сделали с тобой?! <br></p>,следующий текст,NULL,24124
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,8573
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,7,0,filler,NULL,<p align=left> Шел дождь. Был вечер нехорош%2C<br>недобрый%2C неуклюжий.<br>Он извивался у калош <br>сырой гадюкой — лужей.<br>   </p>,следующий текст,NULL,8581
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,2413
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,15,0,filler,NULL,<p align=left> Я сознаю%2C что невозможно <br> Опять взойти на высоту%2C<br> И без надежд%2C но бестревожно%2C <br> Я в нити грез узор плету.<br></p>,следующий текст,NULL,12945
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1582
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,9,0,exp,NULL,<p align=left> Ах%2C время%2C помедли%2C помедли! <br> Я знаю%2C куда я влеком%2C <br> а ты вокруг петель солнце<br> кладешь и кладешь венком. <br>   </p>,следующий текст,NULL,16854
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,2828
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,12,0,control,NULL,<p align=left> Но в глубине разврата не погиб<br> Какой-нибудь неправедный изгиб<br> Сердец людских пред нами обнаживший. <br> Две области – сияния и тьмы – <br> Исследовать равно стремимся мы.<br></p>,следующий текст,NULL,29351
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1194
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,18,0,filler,NULL,<p align=left> Ты душою младенческой все поняла%2C  <br> Что мне высказать тайная сила дала%2C<br> И хоть жизнь без тебя суждено мне влачить%2C <br> Но мы вместе с тобой%2C нас нельзя разлучить.<br></p>,следующий текст,NULL,11477
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,1910
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,2,0,filler,NULL,<p align=left> И раскаты горячего грома <br>задержались в прохладной листве...<br>Я с тех пор в этой роще%2C как дома%2C <br>мы в глубоком и крепком родстве<br></p>,следующий текст,NULL,16661
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,923
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,5,0,exp,NULL,<p align=left> Озаренный лучом%2C я<br> поднимаюсь в овраг.<br> Чернопыльные комья<br> замедляют мой шаг.<br></p>,следующий текст,NULL,8470
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,971
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,16,0,control,NULL,<p align=left> Прольются<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  волны молока%2C<br> пойдут<br> &nbsp&nbsp&nbsp&nbsp листвою полыхать <br> каштанов ветви  <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  либо — <br> зареющие липы. </p>,следующий текст,NULL,12864
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,883
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,11,0,filler,NULL,<p align=left> Не счесть на земле рассветов%2C <br> закатов%2C что будут на ней...<br> Ах%2C время! Дай мудрых советов <br> и неторопливых дней!<br></p>,следующий текст,NULL,6874
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,896
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,14,0,filler,NULL,<p align=left>Когда в июнь <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp часов с восьми <br>жестокий <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp врежется жасмин <br>тяжелой влажью<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp веток%2C<br> тогда —<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp настало лето. </p>,следующий текст,NULL,5651
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,896
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,17,0,exp,NULL,<p align=left> Мы тайнобрачные цветы... <br> Никто не знал%2C что мы любили%2C <br> Что аромат любовной пыли <br> Вдохнули трое – я и ты!<br>   </p>,следующий текст,NULL,10160
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,1159
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,4,0,control,NULL,<p align=left> О%2C только бы домой дойти! Пятнадцать <br> Минут ходьбы. Пять улиц миновать.<br> По лестнице на самый верх подняться<br> И в дверь условным стуком постучать...<br></p>,следующий текст,NULL,7853
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,720
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,10,0,filler,NULL,<p align=left> Несется плеск с речных излучин%2C  <br> В овраге ветер струны рвет%2C<br> Весь мир разбужен <br> И озвучен<br> И дирижеру смотрит в рот.  <br></p>,следующий текст,NULL,6811
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,710
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,6,0,filler,NULL,<p align=left> Я распрощался навсегда<br>Со школою постылой! <br>И в лужах квакает вода%2C <br>Как пробки от бутылок. <br>   </p>,следующий текст,NULL,4495
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,954
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,13,0,exp,NULL,<p align=left> В лесу корней деревья сплетены%2C <br> Им снятся те же медленные сны%2C <br> Они поют в одном согласном хоре%2C<br> Зеленый сон%2C земли живое море. <br>   </p>,следующий текст,NULL,33112
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,827
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,8,0,control,NULL,<p align=left> Сквозь тучи солнце светит скудно%2C<br> Уходит лес в глухую даль.<br> И так на этот раз мне трудно<br> Укрыть от всех мою печаль!<br></p>,следующий текст,NULL,5831
+1556905841,d8788bcb664d3a980c26cd98221c49f1,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,835
+#
+# Results on Friday May 03 2019 18:45:59 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 5.1; LYO-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,age,20
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,write_something,
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,yes
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,credit,no
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,sex,female
+1556909160,3b85b580784cef570b3fe8227672231e,Form,1,0,intro,NULL,_REACTION_TIME_,55710
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1556909160,3b85b580784cef570b3fe8227672231e,Question,10,0,filler,NULL,<p align=left> Несется плеск с речных излучин%2C  <br> В овраге ветер струны рвет%2C<br> Весь мир разбужен <br> И озвучен<br> И дирижеру смотрит в рот.  <br></p>,следующий текст,NULL,16594
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,5039
+1556909160,3b85b580784cef570b3fe8227672231e,Question,3,0,filler,NULL,<p align=left> На грудь положен камушек <br>граненый%2C не простой... <br> Иванушка%2C Иванушка%2C <br> что сделали с тобой?! <br></p>,следующий текст,NULL,4710
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,7028
+1556909160,3b85b580784cef570b3fe8227672231e,Question,16,0,control,NULL,<p align=left> Прольются<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  волны молока%2C<br> пойдут<br> &nbsp&nbsp&nbsp&nbsp листвою полыхать <br> каштанов ветви  <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  либо — <br> зареющие липы. </p>,следующий текст,NULL,9890
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,7515
+1556909160,3b85b580784cef570b3fe8227672231e,Question,7,0,filler,NULL,<p align=left> Шел дождь. Был вечер нехорош%2C<br>недобрый%2C неуклюжий.<br>Он извивался у калош <br>сырой гадюкой — лужей.<br>   </p>,следующий текст,NULL,4639
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,2889
+1556909160,3b85b580784cef570b3fe8227672231e,Question,13,0,exp,NULL,<p align=left> В лесу корней деревья сплетены%2C <br> Им снятся те же медленные сны%2C <br> Они поют в одном согласном хоре%2C<br> Зеленый сон%2C земли живое море. <br>   </p>,следующий текст,NULL,9163
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,3888
+1556909160,3b85b580784cef570b3fe8227672231e,Question,6,0,filler,NULL,<p align=left> Я распрощался навсегда<br>Со школою постылой! <br>И в лужах квакает вода%2C <br>Как пробки от бутылок. <br>   </p>,следующий текст,NULL,7389
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1448
+1556909160,3b85b580784cef570b3fe8227672231e,Question,4,0,control,NULL,<p align=left> О%2C только бы домой дойти! Пятнадцать <br> Минут ходьбы. Пять улиц миновать.<br> По лестнице на самый верх подняться<br> И в дверь условным стуком постучать...<br></p>,следующий текст,NULL,5419
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,6688
+1556909160,3b85b580784cef570b3fe8227672231e,Question,11,0,filler,NULL,<p align=left> Не счесть на земле рассветов%2C <br> закатов%2C что будут на ней...<br> Ах%2C время! Дай мудрых советов <br> и неторопливых дней!<br></p>,следующий текст,NULL,8576
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,2482
+1556909160,3b85b580784cef570b3fe8227672231e,Question,9,0,exp,NULL,<p align=left> Ах%2C время%2C помедли%2C помедли! <br> Я знаю%2C куда я влеком%2C <br> а ты вокруг петель солнце<br> кладешь и кладешь венком. <br>   </p>,следующий текст,NULL,5862
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,6068
+1556909160,3b85b580784cef570b3fe8227672231e,Question,14,0,filler,NULL,<p align=left>Когда в июнь <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp часов с восьми <br>жестокий <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp врежется жасмин <br>тяжелой влажью<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp веток%2C<br> тогда —<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp настало лето. </p>,следующий текст,NULL,4749
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,3631
+1556909160,3b85b580784cef570b3fe8227672231e,Question,8,0,control,NULL,<p align=left> Сквозь тучи солнце светит скудно%2C<br> Уходит лес в глухую даль.<br> И так на этот раз мне трудно<br> Укрыть от всех мою печаль!<br></p>,следующий текст,NULL,5706
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,4839
+1556909160,3b85b580784cef570b3fe8227672231e,Question,15,0,filler,NULL,<p align=left> Я сознаю%2C что невозможно <br> Опять взойти на высоту%2C<br> И без надежд%2C но бестревожно%2C <br> Я в нити грез узор плету.<br></p>,следующий текст,NULL,7860
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,4550
+1556909160,3b85b580784cef570b3fe8227672231e,Question,17,0,exp,NULL,<p align=left> Мы тайнобрачные цветы... <br> Никто не знал%2C что мы любили%2C <br> Что аромат любовной пыли <br> Вдохнули трое – я и ты!<br>   </p>,следующий текст,NULL,5656
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,4738
+1556909160,3b85b580784cef570b3fe8227672231e,Question,2,0,filler,NULL,<p align=left> И раскаты горячего грома <br>задержались в прохладной листве...<br>Я с тех пор в этой роще%2C как дома%2C <br>мы в глубоком и крепком родстве<br></p>,следующий текст,NULL,8482
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,4061
+1556909160,3b85b580784cef570b3fe8227672231e,Question,12,0,control,NULL,<p align=left> Но в глубине разврата не погиб<br> Какой-нибудь неправедный изгиб<br> Сердец людских пред нами обнаживший. <br> Две области – сияния и тьмы – <br> Исследовать равно стремимся мы.<br></p>,следующий текст,NULL,7450
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,7820
+1556909160,3b85b580784cef570b3fe8227672231e,Question,18,0,filler,NULL,<p align=left> Ты душою младенческой все поняла%2C  <br> Что мне высказать тайная сила дала%2C<br> И хоть жизнь без тебя суждено мне влачить%2C <br> Но мы вместе с тобой%2C нас нельзя разлучить.<br></p>,следующий текст,NULL,7824
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,4466
+1556909160,3b85b580784cef570b3fe8227672231e,Question,5,0,exp,NULL,<p align=left> Озаренный лучом%2C я<br> поднимаюсь в овраг.<br> Чернопыльные комья<br> замедляют мой шаг.<br></p>,следующий текст,NULL,6706
+1556909160,3b85b580784cef570b3fe8227672231e,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,6132
+#
+# Results on Friday May 03 2019 20:54:31 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,age,27
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,write_something,
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,yes
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,yes
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,credit,no
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,sex,female
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Form,1,0,intro,NULL,_REACTION_TIME_,78524
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,11,0,filler,NULL,<p align=left> Не счесть на земле рассветов%2C <br> закатов%2C что будут на ней...<br> Ах%2C время! Дай мудрых советов <br> и неторопливых дней!<br></p>,следующий текст,NULL,11342
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,6684
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,15,0,filler,NULL,<p align=left> Я сознаю%2C что невозможно <br> Опять взойти на высоту%2C<br> И без надежд%2C но бестревожно%2C <br> Я в нити грез узор плету.<br></p>,следующий текст,NULL,2437
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,1844
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,16,0,control,NULL,<p align=left> Прольются<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  волны молока%2C<br> пойдут<br> &nbsp&nbsp&nbsp&nbsp листвою полыхать <br> каштанов ветви  <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  либо — <br> зареющие липы. </p>,следующий текст,NULL,5117
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,3029
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,9,0,exp,NULL,<p align=left> Ах%2C время%2C помедли%2C помедли! <br> Я знаю%2C куда я влеком%2C <br> а ты вокруг петель солнце<br> кладешь и кладешь венком. <br>   </p>,следующий текст,NULL,3499
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,1675
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,2,0,filler,NULL,<p align=left> И раскаты горячего грома <br>задержались в прохладной листве...<br>Я с тех пор в этой роще%2C как дома%2C <br>мы в глубоком и крепком родстве<br></p>,следующий текст,NULL,8768
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1951
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,7,0,filler,NULL,<p align=left> Шел дождь. Был вечер нехорош%2C<br>недобрый%2C неуклюжий.<br>Он извивался у калош <br>сырой гадюкой — лужей.<br>   </p>,следующий текст,NULL,5554
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,4209
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,8,0,control,NULL,<p align=left> Сквозь тучи солнце светит скудно%2C<br> Уходит лес в глухую даль.<br> И так на этот раз мне трудно<br> Укрыть от всех мою печаль!<br></p>,следующий текст,NULL,6265
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,1386
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,17,0,exp,NULL,<p align=left> Мы тайнобрачные цветы... <br> Никто не знал%2C что мы любили%2C <br> Что аромат любовной пыли <br> Вдохнули трое – я и ты!<br>   </p>,следующий текст,NULL,4699
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,1378
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,18,0,filler,NULL,<p align=left> Ты душою младенческой все поняла%2C  <br> Что мне высказать тайная сила дала%2C<br> И хоть жизнь без тебя суждено мне влачить%2C <br> Но мы вместе с тобой%2C нас нельзя разлучить.<br></p>,следующий текст,NULL,1907
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,1108
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,14,0,filler,NULL,<p align=left>Когда в июнь <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp часов с восьми <br>жестокий <br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp врежется жасмин <br>тяжелой влажью<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp веток%2C<br> тогда —<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp настало лето. </p>,следующий текст,NULL,1790
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,2598
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,12,0,control,NULL,<p align=left> Но в глубине разврата не погиб<br> Какой-нибудь неправедный изгиб<br> Сердец людских пред нами обнаживший. <br> Две области – сияния и тьмы – <br> Исследовать равно стремимся мы.<br></p>,следующий текст,NULL,1307
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,8056
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,5,0,exp,NULL,<p align=left> Озаренный лучом%2C я<br> поднимаюсь в овраг.<br> Чернопыльные комья<br> замедляют мой шаг.<br></p>,следующий текст,NULL,6819
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1371
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,3,0,filler,NULL,<p align=left> На грудь положен камушек <br>граненый%2C не простой... <br> Иванушка%2C Иванушка%2C <br> что сделали с тобой?! <br></p>,следующий текст,NULL,4264
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,да,NULL,1284
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,10,0,filler,NULL,<p align=left> Несется плеск с речных излучин%2C  <br> В овраге ветер струны рвет%2C<br> Весь мир разбужен <br> И озвучен<br> И дирижеру смотрит в рот.  <br></p>,следующий текст,NULL,11704
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,1621
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,4,0,control,NULL,<p align=left> О%2C только бы домой дойти! Пятнадцать <br> Минут ходьбы. Пять улиц миновать.<br> По лестнице на самый верх подняться<br> И в дверь условным стуком постучать...<br></p>,следующий текст,NULL,1107
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,затрудняюсь ответить,NULL,1054
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,13,0,exp,NULL,<p align=left> В лесу корней деревья сплетены%2C <br> Им снятся те же медленные сны%2C <br> Они поют в одном согласном хоре%2C<br> Зеленый сон%2C земли живое море. <br>   </p>,следующий текст,NULL,1170
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,916
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,6,0,filler,NULL,<p align=left> Я распрощался навсегда<br>Со школою постылой! <br>И в лужах квакает вода%2C <br>Как пробки от бутылок. <br>   </p>,следующий текст,NULL,1511
+1556916872,c4fb7a5a5e68c1d2cc4820324256714a,Question,19,0,question,NULL,Прочитанный мною отрывок стихотворения созвучен моему текущему эмоциональному состоянию.,нет,NULL,820
